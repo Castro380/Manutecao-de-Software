@@ -1,0 +1,1 @@
+start notepad "nome do arquivo" = para comentar
